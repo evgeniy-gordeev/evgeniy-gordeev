@@ -1,5 +1,7 @@
 # 👋 Evgeniy Gordeev (gordeevlabs)
 
+![Open to work](https://img.shields.io/badge/Open%20to%20work-✔️-brightgreen)
+
 **Machine Learning Engineer • Full‑stack Python developer**
 
 - 🚀 Опыт в FastAPI, PostgreSQL, Docker, CI/CD, OpenAI  
